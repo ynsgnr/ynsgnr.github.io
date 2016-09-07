@@ -1,0 +1,26 @@
+title: Fikir Defteri
+description: Kişisel bir blog
+author: Yunus Güngör
+logo: https://github.com/ynsgnr/ynsgnr.github.io/raw/master/img/pp.jpg
+github: https://github.com/ynsgnr
+about: Meraklı bir insan evladı
+
+baseurl: ""
+url: "http://ynsgnr.github.io"
+
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
