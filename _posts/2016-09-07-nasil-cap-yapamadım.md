@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nasıl ÇAP Yapamadım?
-categories: ITU, okul, türkiye
+categories: ITU okul türkiye
 ---
 
 <h1>Nasıl ÇAP yapamadım?</h1>
