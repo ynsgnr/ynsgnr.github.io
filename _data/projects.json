@@ -1,7 +1,7 @@
 [
 	{
 		"name": "2048",
-		"image": "placeholder.jpg",
+		"image": "/assets/2048.png",
 		"url": "https://github.com/ynsgnr/2048",
 		"date": "Jan 2014",
 		"tags": ["Console","Okul Projeleri"]
