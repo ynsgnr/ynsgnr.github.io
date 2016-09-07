@@ -20,7 +20,7 @@ categories: ITU, okul, türkiye
 <h2>5-6 Kişi içine giremedin mi diye ağlıyorsun yani?</h2>
 <p>Hayır, gayette girdim, not ortalaması tutuyor, yüzdelik dilim tutuyor, peki neden yapamadım. Şimdi yönetmelikte şöyle bir madde var: 5.yy'ında olan öğrenciler 75 kredi tamamlamalıdır. Şimdi 5.yy'ında olan demek 2 yıl okumuş demek. Ben YTÜ'den yatay geçiş olduğum için orda okuduğum 1 yılı da sayıyor okul fakat, aldığım dersleri saymıyor. Dersleri saymayınca kredi tamamlanmıyor. İşte kıyamet burda kopuyor.</p>
 
-<h2>Yaz okulunda faln verseydin, yapan yapıyor...</h2>
+<h2>Yaz okulunda falan verseydin, yapan yapıyor...</h2>
 <p>İşte burda da bizim güzelim bilgisayarcı hocaların tembelliği devreye giriyor. Şimdi bilgisayar mühendisliği piramit gibi öğrenilmesi gereken bişeydir. Temeli büyük ama öğrendikçe kolaylaşır. Dolayısıyla ilk önce alınması gereken dersler vardır bu da önşart olarak öğrencilere geri döner yani 2-3 temel dersi almadan hiçbir dersi alamıyoruz adam akıllı. İşte okul benim YTÜ'de aldığım bu temel derslerden 1ini saymadığı için ben de biraz geriden geldim. Tamam saymasın sıkıntı değil ben alırım kredilerimi bir şekilde, neyse İTÜ'deki 1. dönem aldım tamamladım zaten. Dolayısıyla diğer dersleri de alabilir hale geldim fakat, yaz okulunda bu dersler açılmayınca ve kontenjandan dolayı ingilizce'de alayamayınca benim 5.yy'da 75 krediyi tamamlamam hayal oldu</p>
 
 <h2>Suç bölümün hocalarında mı yani?</h2>
