@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: Türkiye
+categories: türkiye
 title: Türkiye ve Türk Milleti
 permalink: /category/turkiye
 ---
