@@ -6,9 +6,11 @@ categories: programcılık okul ITU
 
 <p>Merhabalar, yazının başlığına bakmayın çok ciddi bir yazı olmayacak, açıkcası geçenlerde başıma gelen bir olayı yazmak için yazıyorum ve tabiki bunu yaparken ucunu biraz nacizane okuluma da değdiriceceğim.</p>
 
-<blockquote><i><h2>C Yazarken yorumlarda(commentlerde) backslash "/" kullanmayın</h2></i></blockquote>
+<blockquote><i><h2>C Yazarken yorumlarda(commentlerde) backslash "&#47;" kullanmayın</h2></i></blockquote>
 
 <p> Başıma gelen olay buydu işte, geçen okul döneminde bir ödevi hazırlarken, nedendir hatırlamıyorum ama bir comment satırının içine backslash koymuştum. Bunun sonucunda gcc derleyici "<small><i>ITU'nün bana verdiği SSH serverda, Red Hat 4.8.5-4 üzerinde GCC 4.8.5 20150623 derleyicisi</i></small>" comment satırındaki backslash'ı görüp onun bir altındaki satırı da atlıyordu. Hatayı bulmam 1-2 günümü aldı açıkcası, çok ilginç ve basit bir hata olmasına rağmen o satırı atlaması memory overflow'a sebep olup programın fatal error vermesine neden oluyordu</p>
+
+<p>İşin komik yani aynı tarz sorunla bu yazıyı yazarken de karşılaştım. Yukarda kullandığım "	&#47;" yüzünden tarayıcı tüm safayı başlık (h2) sandığı için sayfa biraz yamuldu. Galiba escape squances kullanmayı öğrenmem gerekiyor.</p>
 
 <h1>Teknik kısımlarla ilgilenmeyenler yukardaki paragrafı okumasa da olur</h1>
 
