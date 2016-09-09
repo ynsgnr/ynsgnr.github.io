@@ -1,5 +1,5 @@
 ---
-layout: post<
+layout: post
 title: C Dili ve Kullanılan Yorumlar
 categories: programcılık okul ITU
 ---
