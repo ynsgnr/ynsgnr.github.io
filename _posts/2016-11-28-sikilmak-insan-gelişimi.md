@@ -19,7 +19,7 @@ categories: insan doğası
 <h2>Ne demek toplum baskısı sıkıntıya dayanır?</h2>
 <p>Yukarda anlattığım gibi dikkatimizi dağıtmak için oluşturduğumuz sorunlar çözüme kavuştuysa bu sornlarla tekrar karşılaşmak istemeyiz. Hele ki dikkati dağıtacak ve hayatı kolaylaştıran başka odaklar varsa... Bu odaklar iş,okul,eğitim veya diğer insanlar olabilir. İnsan beyni her ne kadar yüksek kapasiteli olsa da birden fazla işlemi aynı anda yapmaya çalıştığı zaman sıkıntılarla karşılaşmaktadır. Bunun en büyük sebebi evrimleşme sırasında vahşi doğada aniden atılan avcılarla karşı çok hızlı bir şekilde odak değiştirerek önlem alınması gerekliliğidir. Konuya dönecek olursak odağını hayatında işine yaramayacak bir konuya yöneltmek istemeyen insanlık, kendince çözüme kavuşturduğu sorunları tekrar düşünmek istemez ve bunları düşündürmek isteyenlere şiddetle karşı çıkar. Teknolojinin gelişmesiyle arta kalan zamanda sıkılmamız ve kendimize çeşitli sorunlar yaratma isteğimiz sebebiyle eskiden kapatılmış konular tekrar ele alınmaktadır.</p>
 
-<h2>Sıkıldığımız için ivmelenen bir gelişme gösteriyoruz<h2>
+<h2>Sıkıldığımız için ivmelenen bir gelişme gösteriyoruz</h2>
 <p>Boş vakitlerimizde sıkılıp herşeyin üstüne düşünmemiz ve ürettiğimiz fikirler sayesinde hayatımız kolaylaşıyor yani daha çok boş vakit elde ediyoruz, artan nufüsü da hesaba katarsak, hızlanarak ivmelenen bir fikir üretim grafiği elde ediyoruz bu da gelişmeyi getiriyor</p>
 
 
