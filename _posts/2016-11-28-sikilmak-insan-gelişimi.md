@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sıkılmanın gerekliliği vve insanlığın gelişimi
-categories: insanDogasi
+title: Sıkılmanın gerekliliği ve insanlığın gelişimi
+categories: insan doğası
 ---
 
  <h2>İnsan beyni ve gelişimi</h2>

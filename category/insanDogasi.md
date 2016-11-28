@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: insanDogasi
+categories: insan doğası
 title: İnsan doğası üzerine
 permalink: /category/insanDogasi
 ---
