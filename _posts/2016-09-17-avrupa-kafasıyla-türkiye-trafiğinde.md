@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Avrupa Kafasıyla Türkiye'de Trafiğe Çıkmak
+categories: türkiye
 ---
 
 <h6>Şimdi yanlış anlaşılma olmasın, burda "Avrupalılar çok uygar abi..." ya da "Gavur yapıyor ya..." kafasında bir yazı yazmayacağım. Sadece insanların yapısı gereği topluma uymakta yaşadığı sorunlara değineceğim.</h6>
