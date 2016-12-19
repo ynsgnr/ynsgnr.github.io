@@ -7,4 +7,12 @@
 		"tags": ["Console","Okul Projeleri"]
 	},
 
+	{
+		"name": "Plastic Japanase Brew",
+		"image": "PJB.PNG",
+		"url": "https://github.com/ynsgnr/plasticColdBrew",
+		"date": "Jul 2016",
+		"tags": ["kahve","DIY","Kendin Yap","Farklı"]
+	}
+
 ]
