@@ -4,7 +4,7 @@
 		"image": "2048.PNG",
 		"url": "https://github.com/ynsgnr/2048",
 		"date": "Jan 2014",
-		"tags": ["Console","Okul Projeleri"]
+		"tags": ["Console","Okul Projeleri","School"]
 	},
 
 	{
@@ -14,13 +14,37 @@
 		"date": "Jul 2016",
 		"tags": ["kahve","DIY","Kendin Yap","Farklı"]
 	},
-	
+
 	{
 		"name": "Burda!-Location based attendance tracker",
 		"image": "BURDA.JPG",
 		"url": "https://play.google.com/store/apps/details?id=opus.auctor",
 		"date": "Feb 2017",
 		"tags": ["DIY","Android","App"]
+	}
+
+	{
+		"name": "LinuxZombieFork",
+		"image": "zombie.JPG",
+		"url": "https://github.com/ynsgnr/linux",
+		"date": "Dec 2017",
+		"tags": ["Linux","School","Okul Projeleri"]
+	}
+
+	{
+		"name": "LinuxMessageBox",
+		"image": "message.JPG",
+		"url": "https://github.com/ynsgnr/messagebox_linux",
+		"date": "Dec 2017",
+		"tags": ["Linux","School","Okul Projeleri","Driver"]
+	}
+
+	{
+		"name": "postalCodeMapper",
+		"image": "fuse.JPG",
+		"url": "https://github.com/ynsgnr/postalCodeMapper",
+		"date": "Dec 2017",
+		"tags": ["Linux","School","Okul Projeleri","FUSE"]
 	}
 
 ]
