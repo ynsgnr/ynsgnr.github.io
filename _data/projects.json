@@ -21,7 +21,7 @@
 		"url": "https://play.google.com/store/apps/details?id=opus.auctor",
 		"date": "Feb 2017",
 		"tags": ["DIY","Android","App"]
-	}
+	},
 
 	{
 		"name": "Linux Zombie Killer",
@@ -29,7 +29,7 @@
 		"url": "https://github.com/ynsgnr/linux",
 		"date": "Dec 2017",
 		"tags": ["Linux","School"]
-	}
+	},
 
 	{
 		"name": "Linux Message Box",
@@ -37,7 +37,7 @@
 		"url": "https://github.com/ynsgnr/messagebox_linux",
 		"date": "Dec 2017",
 		"tags": ["Linux","School","Driver"]
-	}
+	},
 
 	{
 		"name": "Postal Code Mapper",
@@ -45,7 +45,7 @@
 		"url": "https://github.com/ynsgnr/postalCodeMapper",
 		"date": "Dec 2017",
 		"tags": ["Linux","School","FUSE"]
-	}
+	},
 
 	{
 		"name": "Simple Computer",
@@ -53,6 +53,6 @@
 		"url": "https://github.com/ynsgnr/simpleComputer",
 		"date": "Dec 2017",
 		"tags": ["Computer Organization","Hardware","Logism","School"]
-	}
+	},
 
 ]
