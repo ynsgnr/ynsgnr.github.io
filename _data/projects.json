@@ -4,7 +4,7 @@
 		"image": "2048.PNG",
 		"url": "https://github.com/ynsgnr/2048",
 		"date": "Jan 2014",
-		"tags": ["Console","Okul Projeleri","School"]
+		"tags": ["Console","School"]
 	},
 
 	{
@@ -24,27 +24,35 @@
 	}
 
 	{
-		"name": "LinuxZombieFork",
+		"name": "Linux Zombie Killer",
 		"image": "zombie.JPG",
 		"url": "https://github.com/ynsgnr/linux",
 		"date": "Dec 2017",
-		"tags": ["Linux","School","Okul Projeleri"]
+		"tags": ["Linux","School"]
 	}
 
 	{
-		"name": "LinuxMessageBox",
+		"name": "Linux Message Box",
 		"image": "message.JPG",
 		"url": "https://github.com/ynsgnr/messagebox_linux",
 		"date": "Dec 2017",
-		"tags": ["Linux","School","Okul Projeleri","Driver"]
+		"tags": ["Linux","School","Driver"]
 	}
 
 	{
-		"name": "postalCodeMapper",
+		"name": "Postal Code Mapper",
 		"image": "fuse.JPG",
 		"url": "https://github.com/ynsgnr/postalCodeMapper",
 		"date": "Dec 2017",
-		"tags": ["Linux","School","Okul Projeleri","FUSE"]
+		"tags": ["Linux","School","FUSE"]
+	}
+
+	{
+		"name": "Simple Computer",
+		"image": "simpleComputer.PNG",
+		"url": "https://github.com/ynsgnr/simpleComputer",
+		"date": "Dec 2017",
+		"tags": ["Computer Organization","Hardware","Logism","School"]
 	}
 
 ]
