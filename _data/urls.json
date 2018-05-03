@@ -18,6 +18,12 @@
   {
     "text": "CV",
     "url": "/CV.pdf",
+    "icon": "fa-asterisk",
+    "layout": "post"
+  },
+  {
+    "text": "Transcript",
+    "url": "/Transcript.pdf",
     "icon": "fa-graduation-cap",
     "layout": "post"
   },
